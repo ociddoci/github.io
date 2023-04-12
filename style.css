@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-    width: 40%;
+    width: 20%;
     min-width: 320px;
     position: absolute;
     transform: translate(-50%, -50%);
